@@ -33,5 +33,3 @@ Start the client by running the following command:
 
 Once both the server and client programs are running, you should be able to send and receive messages between them.
 
-
-
