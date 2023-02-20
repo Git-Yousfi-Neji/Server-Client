@@ -4,7 +4,7 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 #include <unistd.h>
-#define PORT 8889
+#define PORT 8888
 
 int main() {
     int client_socket = 0;
