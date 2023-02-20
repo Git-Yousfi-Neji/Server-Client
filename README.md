@@ -1,4 +1,4 @@
-#C/C++ Chat App
+# C/C++ Chat App
 
 This is a simple chat app built using C/C++. It consists of a server program and a client program that communicate with each other over a network connection.
 
@@ -32,4 +32,6 @@ Start the client by running the following command:
 >./client
 
 Once both the server and client programs are running, you should be able to send and receive messages between them.
+Or you can use the Makefile by running the following command:
 
+>make
